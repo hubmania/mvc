@@ -17,7 +17,7 @@ public class BoardDAO {
 	PreparedStatement ptmt;
 	ResultSet rs;
 	String sql;
-	
+	// 輿戮 六六六六
 	public BoardDAO() {
 		// TODO Auto-generated constructor stub
 		try {
